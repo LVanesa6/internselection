@@ -45,7 +45,7 @@ El objetivo es crear una herramienta web sencilla que permita a los practicantes
 ---
 
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 -  React (Frontend)
 -  Java 17 + Spring Boot (Backend)
@@ -56,7 +56,7 @@ El objetivo es crear una herramienta web sencilla que permita a los practicantes
 
 ---
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Asegúrate de tener instalado:
 
@@ -68,7 +68,7 @@ Asegúrate de tener instalado:
 - Visual Studio Code con sus extenciones para java, maven y springboot  instaladas
 ---
 
-## ⚙️ Instalación
+##  Instalación
 
 ### 1. Clona el repositorio backend el alguna carpeta que definas
 
@@ -146,26 +146,26 @@ Damos clic al usario que creamos
 Nos asegura de que poner en off la opción de temporary y ponemos la contraseña que queramos y le damos a save
 ![keyrealm](./assets/setpassword3.png)
 
-## 5. Corre el backend
-Seleccionas la clase InternselectionApplication.java y le das la boton de run 
+## Ejecución
+Vamos a correr el back seleccionas la clase InternselectionApplication.java y le das la boton de run 
 ![correrback](./assets/correrback.png)
 
 Si esta todo bien deberia salir asi 
 ![correrback](./assets/correrbackcorrecto.png)
 
 
-## 6. Descarga el repositorio de from en alguna carpeta que quiera
+## 5 Descarga el repositorio de from en alguna carpeta que quiera
 
 ```bash
 git clone https://github.com/LVanesa6/internselectionfront.git
 cd internselectionfront
 ```
-### 7. Abre el proyecto en Visual Studio Code
+### 6 Abre el proyecto en Visual Studio Code
 
 ```bash
 code .
 ```
-## 8. Corre el frotnend react 
+## 7 Corre el frotnend react 
 Le das crtl + ñ para ver la terminal 
 le das al comando npm install
 ```bash
