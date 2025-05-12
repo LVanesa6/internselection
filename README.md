@@ -14,8 +14,6 @@ Este proyecto es una aplicación web de gestión y selección de practicantes. P
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
 - [Ejecución](#ejecución)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Funcionalidades Adicionales](#funcionalidades-adicionales)
 - [Autor](#autor)
 
 ---
